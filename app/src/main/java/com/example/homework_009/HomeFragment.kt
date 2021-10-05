@@ -20,10 +20,16 @@ class HomeFragment : Fragment() {
     ): View? {
         binding = HomeScreenBinding.inflate(inflater, container, false)
         setListeners()
+
+
+
         return binding.root
     }
 
     private fun setListeners() {
+
+
+
         binding.btnLogin.setOnClickListener {
             findNavController().navigate(R.id.action_homeFragment_to_loginFragment)
         }
