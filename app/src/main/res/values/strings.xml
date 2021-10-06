@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Homework_009</string>
+    <string name="log_in">log in</string>
+    <string name="register">REGISTER</string>
+
+    <string name="register_txt">Register</string>
+    <string name="jane_example_com">jane@example.com</string>
+    <string name="password">password</string>
+    <string name="next">next</string>
 </resources>
